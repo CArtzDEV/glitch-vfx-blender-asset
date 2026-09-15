@@ -1,5 +1,5 @@
 schema_version = "1.0.0"
-id = "vfx"
+id = "cartz_vfx"
 version = "1.0.0"
 name = "CArtz VFX Effects"
 tagline = "All of CArtz Blender VFX Effects"
