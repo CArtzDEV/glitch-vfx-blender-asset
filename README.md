@@ -1,4 +1,4 @@
-### Here are settled all VFX Effects I use for animations
+### Here are settled all VFX Effects of my own design that I use for animating
 
 ---
 
@@ -11,3 +11,5 @@ Glitch VFX:
 Scatter VFX:
 
 <img width="640" height="632" alt="image" src="https://github.com/user-attachments/assets/82b870b8-cc24-48c1-b7a2-c8218214bd64" />
+
+---
